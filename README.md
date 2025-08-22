@@ -15,20 +15,21 @@ A simple Python program that automatically moves your mouse cursor every 5 secon
 
 ## Quick Start
 
-### Option 1: Use Pre-built Executables
+### Option 1: Download Pre-built Zips
 
 #### Windows
-1. Download `MouseMover-Windows.exe` from the `dist/` folder
-2. Double-click to run
-3. **A GUI window will open** showing the activity log
-4. **Click "Stop" button or close the window** to exit
+1. Download `MouseMover-Share/MouseMover-Windows.zip`
+2. Unzip it
+3. Double-click `MouseMover-Windows.exe`
+4. If SmartScreen warns, click "More info" → "Run anyway"
+5. **A GUI window will open** showing the activity log; click "Stop" or close to exit
 
-#### Mac
-1. Download `MouseMover-Mac` from the `dist/` folder
-2. Make it executable: `chmod +x MouseMover-Mac`
-3. Run: `./MouseMover-Mac`
-4. **A GUI window will open** showing the activity log
-5. **Click "Stop" button or close the window** to exit
+#### Mac (Apple Silicon)
+1. Download `MouseMover-Share/MouseMover-Mac.zip`
+2. Unzip it
+3. Right-click `MouseMover-Mac.app` → Open → Open (first run)
+4. Grant Accessibility permission if prompted: System Settings → Privacy & Security → Accessibility
+5. **A GUI window will open** showing the activity log; click "Stop" or close to exit
 
 ### Option 2: Run Python Script
 
