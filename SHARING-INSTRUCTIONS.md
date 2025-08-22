@@ -1,6 +1,6 @@
-# MouseMover - Quick Start Guide
+# MouseMover - Sleep Prevention Tool
 
-A simple program that moves your mouse every 5 seconds to keep your computer active.
+A powerful program that moves your mouse every 5 seconds and **prevents your computer from going to sleep** using multiple system-level methods.
 
 ## 🖥️ **For Windows Users**
 
@@ -35,10 +35,13 @@ Then run the created `MouseMover-Mac` file.
 
 ## 🎯 **What It Does**
 
-- Moves your mouse to random positions every 5 seconds
-- Prevents screen savers and keeps your system active
-- Shows real-time activity log in a GUI window
-- Safe positioning (avoids screen edges)
+- **🖱️ Moves your mouse** to random positions every 5 seconds
+- **🔒 Prevents sleep mode** using Windows system APIs
+- **💤 Keeps computer awake** even during long periods of inactivity
+- **🖥️ Prevents screen savers** from activating
+- **📊 Shows real-time activity log** in a beautiful GUI window
+- **🎯 Safe positioning** (avoids screen edges)
+- **🧪 Multiple fallback methods** ensure maximum effectiveness
 
 ## ❓ **Need Help?**
 

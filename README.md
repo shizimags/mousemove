@@ -1,10 +1,12 @@
-# MouseMover
+# MouseMover - Sleep Prevention Tool
 
-A simple Python program that automatically moves your mouse cursor every 5 seconds to prevent screen savers or keep your system active.
+A powerful Python program that automatically moves your mouse cursor every 5 seconds and **prevents your computer from going to sleep** using multiple system-level methods.
 
 ## Features
 
-- 🖱️ Moves mouse cursor to random positions every 5 seconds
+- 🖱️ **Moves mouse cursor** to random positions every 5 seconds
+- 🔒 **Prevents sleep mode** using Windows system APIs
+- 💤 **Keeps computer awake** even during long periods of inactivity
 - 🖥️ **Easy-to-use GUI window** with Stop button and activity log
 - ❌ **Close window or click Stop** to exit the program
 - 🖥️ Works on Windows and Mac
@@ -12,6 +14,7 @@ A simple Python program that automatically moves your mouse cursor every 5 secon
 - 🎯 Smart positioning (avoids screen edges)
 - 📊 Real-time activity logging in GUI
 - 🎨 Clean, modern interface
+- 🧪 **Multiple fallback methods** ensure maximum effectiveness
 
 ## Quick Start
 
