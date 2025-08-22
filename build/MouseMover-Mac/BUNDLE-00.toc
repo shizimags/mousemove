@@ -1,0 +1,3 @@
+([('MouseMover-Mac',
+   '/Users/shahzanmagray/Documents/Code/mousemove/dist/MouseMover-Mac',
+   'EXECUTABLE')],)
